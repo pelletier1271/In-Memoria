@@ -11,3 +11,4 @@ tmp/
 *.tmp
 coverage/
 .cache/
+Desktop.ini
